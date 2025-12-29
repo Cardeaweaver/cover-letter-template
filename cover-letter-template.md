@@ -29,18 +29,16 @@ My role at BloomTech Institute has involved rigorous testing, debugging, and con
 My portfolio showcases doesn't have many objects yet but i have a couple  to showcase my technical capabilities:
 
 portfolio - Show a little imformation about myself
-- Built using: [Technologies]
+- Built using: react.js
 - Key achievements: i havent started many projects yet
 - Link:(https://portfolio-gamma-jet-13.vercel.app/)
 
-Calculator - [Brief Description]
+Calculator - Was a project i made for a class
 - Built using: [Technologies]  
-- Solved: [Problem it addresses]
-- Link: [Project URL or GitHub link]
+  Link: [\[Project URL or GitHub link\]](https://vercel.com/cardea-weavers-projects/calculator1)
 
-You can view these and other projects at [portfolio-gamma-jet-13.vercel.app](https://portfolio-gamma-jet-13.vercel.app/).
 
-Military Background & Soft Skills
+
 My service in the US Army National Guard as an Infantryman has instilled in me the ability to work under pressure, maintain focus in challenging situations, and collaborate effectively with diverse teams. These qualities complement my technical skills and enable me to approach development challenges with discipline and strategic thinking.
 
 
