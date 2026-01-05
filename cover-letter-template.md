@@ -1,4 +1,4 @@
-# Cover Letter Template
+
 ## Carde'a Weaver - Web Developer
 
 ---
